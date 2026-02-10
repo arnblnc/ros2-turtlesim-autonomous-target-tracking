@@ -205,3 +205,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# === ROS 2 build artifacts ===
+build/
+install/
+log/
+
+# === Colcon ===
+.colcon/
+
+# === IDEs ===
+.vscode/
+.idea/
+
+# === OS files ===
+.DS_Store
+Thumbs.db
