@@ -1,5 +1,7 @@
 # ROS 2 Turtlesim – Catch Them All 🐢🎯
 
+![Demo](turtlesim_automation.gif)
+
 ## Overview
 
 This project is a **ROS 2 multi-node simulation** built on `turtlesim` that demonstrates **autonomous target spawning, tracking, and capture** using services, topics, closed-loop control, and parameterised behaviour.
