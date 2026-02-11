@@ -1,6 +1,8 @@
 # ROS 2 Turtlesim – Catch Them All 🐢🎯
 
-![Demo](turtlesim_automation.gif)
+<p align="center">
+  <img src="turtlesim_automation.gif" width="600">
+</p>
 
 ## Overview
 
