@@ -9,10 +9,6 @@ endif()
 find_package(ament_cmake REQUIRED)
 find_package(rosidl_default_generators REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
-  "msg/HardwareStatus.msg"
-  "msg/LedStateArray.msg"
-  "srv/ComputeRectangleArea.srv"
-  "srv/SetLed.srv"
   "msg/Turtle.msg"
   "msg/TurtleArray.msg"
   "srv/CatchTurtle.srv"
